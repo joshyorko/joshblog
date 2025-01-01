@@ -24,5 +24,5 @@ WORKDIR /site
 # Expose Hugo server port
 EXPOSE 1313
 
-# Command to run Hugo server with the "terminal" theme
-CMD ["hugo", "server", "--bind", "0.0.0.0", "--port", "1313", "-t", "terminal", "--watch", "--buildDrafts", "--buildFuture", "--noHTTPCache"]
+# Command to run Hugo server with the "terminal" theme and minify
+CMD ["hugo", "server", "--bind", "0.0.0.0", "--port", "1313", "-t", "terminal", "--watch", "--buildDrafts", "--buildFuture", "--noHTTPCache", "--minify"]
