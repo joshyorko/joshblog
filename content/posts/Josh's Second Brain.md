@@ -5,6 +5,7 @@ draft: false
 tags:
   - secondbrain
   - minddump
+url: "/posts/joshs-second-brain/" 
 aliases:
 ---
 
