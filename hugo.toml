@@ -57,11 +57,11 @@ theme = "terminal"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "yorko.io blog"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
-      owner = ""
+      owner = "Josh Yorko"
       keywords = ""
       copyright = ""
       menuMore = "Show more"
@@ -75,7 +75,7 @@ theme = "terminal"
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "yorko.io"
         logoHomeLink = "/"
 
       [languages.en.menu]
