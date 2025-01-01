@@ -1,15 +1,11 @@
 ---
-title: Joshua's Second Brain
+title: "Joshua's Second Brain"
 date: 2025-01-01
 draft: false
 tags:
   - secondbrain
   - minddump
-url: "/posts/joshs-second-brain/" 
-aliases:
 ---
-
-
 # My Insane Blog Pipeline
 
   

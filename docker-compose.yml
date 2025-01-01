@@ -7,6 +7,6 @@ services:
       - "1313:1313"
     volumes:
       - ./:/site
-    command: ["hugo", "server", "--bind", "0.0.0.0", "--port", "1313", "-t", "terminal", "--watch", "--buildDrafts", "--buildFuture", "--noHTTPCache"]
+    command: ["hugo", "server", "--bind", "0.0.0.0",  "-t", "terminal", "--watch", "--buildDrafts", "--buildFuture", "--noHTTPCache"]
 
 
