@@ -22,7 +22,7 @@ jobs:
         run: hugo mod get
 
       - name: Build
-        run: hugo --theme terminal --buildDrafts --buildFuture --buildExpired --noHTTPCache
+        run: hugo --theme terminal --buildDrafts --buildFuture --buildExpired
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
