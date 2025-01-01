@@ -3,7 +3,10 @@ FROM alpine:latest
 
 # Set environment variables
 ENV HUGO_VERSION=0.140.2
-ENV HUGO_BINARY=hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+# or amd64
+ENV ARCH=arm64
+
+ENV HUGO_BINARY=hugo_extended_${HUGO_VERSION}_linux-${ARCH}.tar.gz
 
 # Install dependencies
 RUN apk add --no-cache \
