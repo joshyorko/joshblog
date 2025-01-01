@@ -1,41 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Terminal</description>
+    <title>yorko.io blog</title>
+    <link>/</link>
+    <description>Recent content on yorko.io blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Journal Day 1</title>
-      <link>http://localhost:1313/posts/journal-day-1/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/journal-day-1/</guid>
-      <description>&lt;p&gt;#journal So today is weird I&amp;rsquo;m trying to not be too new years resolutiony, but i can&amp;rsquo;t help it.  I have been talking to Heather and she thinks that the best way for me to get through this rut (finances personal) is to start writing everything down.&lt;/p&gt;
-&lt;p&gt;That way I won&amp;rsquo;t be too stressed. I was thinking about a combination of mindump and journaling exercises .&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;http://localhost:1313/images/output.jpg&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;#journal So today is weird I&amp;rsquo;m trying to not be too new years resolutiony, but i can&amp;rsquo;t help it.  I have been talking to Heather and she thinks that the best way for me to get through this rut (finances personal) is to start writing everything down.&lt;/p&gt;
-&lt;p&gt;That way I won&amp;rsquo;t be too stressed. I was thinking about a combination of mindump and journaling exercises .&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;http://localhost:1313/images/output.jpg&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Blog1</title>
-      <link>http://localhost:1313/posts/blog-1/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/blog-1/</guid>
-      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
-&lt;p&gt;#kdlocpanda Just chilling&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;http://localhost:1313/images/output.jpg&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
-&lt;p&gt;#kdlocpanda Just chilling&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;http://localhost:1313/images/output.jpg&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
 title: Journal Day 1
 date: 2025-01-01
-draft: false
+draft: true
 tags:
   - journal
   - blog
