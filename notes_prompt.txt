@@ -1,0 +1,20 @@
+## RoboCopy Command
+robocopy "C:\Users\joshu\projects\blog\posts" "C:\Users\joshu\Documents\joshblog\content\posts" /mir
+
+## Deployment Flow
+- Use local Obsidian in Windows for writing.
+- Sync with local Git repo.
+- Push changes to public GitHub repo.
+- Build a container image for Hugo.
+- Deploy to a server (via GitHub Actions runner) or use GitHub static site.
+
+## Hugo Theme
+- Use the terminal theme for the blog.
+
+## Line Endings
+- Ensure correct line endings for both Windows and Linux.
+## Docker Setup
+- Create a `Dockerfile` for the Hugo server with the necessary configurations.
+- Use `docker-compose` to manage the container.
+
+### Dockerfile
