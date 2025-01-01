@@ -20,14 +20,16 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Get Hugo Modules
+        run: hugo mod get
+
       - name: Build
-        run: hugo -t terminal
+        run: hugo --theme terminal --buildDrafts --buildFuture --buildExpired
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: ./public
-          # Ensure the token has the correct permissions
           allow_empty_commit: true
           keep_files: true
