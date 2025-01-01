@@ -4,7 +4,7 @@ FROM alpine:latest
 # Set environment variables
 ENV HUGO_VERSION=0.140.2
 # or amd64
-ENV ARCH=arm64
+ENV ARCH=amd64
 
 ENV HUGO_BINARY=hugo_extended_${HUGO_VERSION}_linux-${ARCH}.tar.gz
 
@@ -28,4 +28,4 @@ WORKDIR /site
 EXPOSE 1313
 
 # Command to run Hugo server with the "terminal" theme and minify
-CMD ["hugo", "server", "--bind", "0.0.0.0", "--port", "1313", "-t", "terminal", "--watch", "--buildDrafts", "--buildFuture", "--noHTTPCache", "--minify"]
+CMD ["hugo", "server", "--bind", "0.0.0.0", "--port", "1313", "-t", "terminal", "--watch", "--buildDrafts", "--buildFuture" ]
