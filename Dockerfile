@@ -1,8 +1,28 @@
-FROM klakegg/hugo:latest
+# Base image
+FROM alpine:latest
 
-WORKDIR /src
-COPY . .
+# Set environment variables
+ENV HUGO_VERSION=0.140.2
+ENV HUGO_BINARY=hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
 
+# Install dependencies
+RUN apk add --no-cache \
+    git \
+    wget \
+    libc6-compat \
+    bash \
+    libstdc++ \
+    gcc \
+    && wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY} \
+    && tar -xzvf ${HUGO_BINARY} -C /usr/local/bin/ \
+    && rm -f ${HUGO_BINARY} \
+    && apk del wget
+
+# Set working directory
+WORKDIR /site
+
+# Expose Hugo server port
 EXPOSE 1313
 
-CMD ["server", "-D", "--bind", "0.0.0.0", "-t", "terminal"]
+# Command to run Hugo server with the "terminal" theme
+CMD ["hugo", "server", "--bind", "0.0.0.0", "--port", "1313", "-t", "terminal", "--watch", "--buildDrafts", "--buildFuture", "--noHTTPCache"]

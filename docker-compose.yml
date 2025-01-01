@@ -1,11 +1,12 @@
-version: '3'
+name: hugo
 services:
   hugo:
-    build: .
+    build:
+      context: .
     ports:
       - "1313:1313"
     volumes:
-      - .:/src
-    environment:
-      - HUGO_WATCH=true
-      - HUGO_ENV=development
+      - ./:/site
+    command: ["hugo", "server", "--bind", "0.0.0.0", "--port", "1313", "-t", "terminal", "--watch", "--buildDrafts", "--buildFuture", "--noHTTPCache"]
+
+
