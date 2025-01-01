@@ -74,6 +74,6 @@ And that’s it! My insane blog pipeline helps me stay organized and productive,
 
 ## Image Test
 
-![[Pasted image 20250101114720.png]]
+!![Image Description](/images/Pasted%20image%2020250101114720.png)
 
 
