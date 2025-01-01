@@ -24,6 +24,9 @@ RUN apk add --no-cache \
 # Set working directory
 WORKDIR /site
 
+# Copy all files to /site
+COPY . /site
+
 # Expose Hugo server port
 EXPOSE 1313
 
