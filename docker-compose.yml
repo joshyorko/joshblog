@@ -2,6 +2,7 @@ name: hugo
 services:
   hugo:
     build:
+      image: ghcr.io/joshyorko/joshblog-hugo-terminal:latest
       context: .
     ports:
       - "1313:1313"
