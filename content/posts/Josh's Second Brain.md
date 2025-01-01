@@ -72,8 +72,7 @@ Finally, I publish the post on my blog. I use a scheduling tool to plan the publ
 And that’s it! My insane blog pipeline helps me stay organized and productive, ensuring that I can consistently produce high-quality content. I hope you found this overview helpful and that it inspires you to create your own efficient workflow.
 
 
-## Image Test
-
-!![Image Description](/images/Pasted%20image%2020250101114720.png)
+## Image Test This Stuff
 
 
+![Image Description](/images/Screenshot%202025-01-01%20123330.png)
