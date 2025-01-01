@@ -4,16 +4,38 @@
     <title>Posts on Terminal</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Terminal</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Joshua&#39;s Second Brain</title>
-      <link>http://localhost:1313/posts/joshs-second-brain/</link>
+      <title>Journal Day 1</title>
+      <link>http://localhost:1313/posts/journal-day-1/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/joshs-second-brain/</guid>
-      <description>&lt;h1 id=&#34;my-insane-blog-pipeline&#34;&gt;My Insane Blog Pipeline&lt;/h1&gt;&#xA;&lt;p&gt;In this post, I will walk you through my insane blog pipeline. This setup allows me to efficiently manage my blog posts from idea to publication. Here’s how it works:&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-1-idea-generation&#34;&gt;Step 1: Idea Generation&lt;/h2&gt;&#xA;&lt;p&gt;I use a combination of tools like Obsidian and Notion to capture and organize my blog post ideas. Whenever inspiration strikes, I jot down my thoughts and categorize them for future reference.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/posts/journal-day-1/</guid>
+      <description>&lt;p&gt;#journal So today is weird I&amp;rsquo;m trying to not be too new years resolutiony, but i can&amp;rsquo;t help it.  I have been talking to Heather and she thinks that the best way for me to get through this rut (finances personal) is to start writing everything down.&lt;/p&gt;
+&lt;p&gt;That way I won&amp;rsquo;t be too stressed. I was thinking about a combination of mindump and journaling exercises .&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;http://localhost:1313/images/output.jpg&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;#journal So today is weird I&amp;rsquo;m trying to not be too new years resolutiony, but i can&amp;rsquo;t help it.  I have been talking to Heather and she thinks that the best way for me to get through this rut (finances personal) is to start writing everything down.&lt;/p&gt;
+&lt;p&gt;That way I won&amp;rsquo;t be too stressed. I was thinking about a combination of mindump and journaling exercises .&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;http://localhost:1313/images/output.jpg&#34;&gt;&lt;/p&gt;
+</content>
     </item>
+    
+    <item>
+      <title>Blog1</title>
+      <link>http://localhost:1313/posts/blog-1/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog-1/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
+&lt;p&gt;#kdlocpanda Just chilling&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;http://localhost:1313/images/output.jpg&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
+&lt;p&gt;#kdlocpanda Just chilling&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;http://localhost:1313/images/output.jpg&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>

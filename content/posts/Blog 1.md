@@ -6,7 +6,9 @@ tags:
  - kdlocpanda
  - blog
 ---
+## Hello world
+
 
 #kdlocpanda Just chilling
 
-![[output.jpg]]
+![Image Description](/images/output.jpg)

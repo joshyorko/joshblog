@@ -18,15 +18,6 @@ Set-Location $ScriptDir
 # Check for required commands
 $requiredCommands = @('git', 'hugo')
 
-# Check for Conda base environment and activate it
-$condaBasePath = "C:\Users\joshu\anaconda3\Scripts\activate"
-if (Test-Path $condaBasePath) {
-    & $condaBasePath base
-} else {
-    Write-Error "Conda base environment not found."
-    exit 1
-}
-
 # Check for Python command (python or python3)
 if (Get-Command 'python' -ErrorAction SilentlyContinue) {
     $pythonCommand = 'python'
