@@ -1,7 +1,7 @@
 ---
 title: Joshua's Second Brain
 date: 2025-01-01
-draft: true
+draft: false
 tags:
   - secondbrain
   - minddump

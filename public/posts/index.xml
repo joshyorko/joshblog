@@ -8,27 +8,33 @@
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Insane Blog Pipeline</title>
-      <link>/posts/my-insane-blog-pipeline/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <title>Joshua&#39;s Second Brain</title>
+      <link>/posts/joshs-second-brain/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my-insane-blog-pipeline/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pandas &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; pd
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;read_csv(stuff)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sttuf &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; df&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head(&lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(df)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241127210428.png&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pandas &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; pd
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;read_csv(stuff)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sttuf &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; df&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head(&lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(df)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241127210428.png&#34;&gt;&lt;/p&gt;
+      <guid>/posts/joshs-second-brain/</guid>
+      <description>&lt;h1 id=&#34;my-insane-blog-pipeline&#34;&gt;My Insane Blog Pipeline&lt;/h1&gt;
+&lt;p&gt;In this post, I will walk you through my insane blog pipeline. This setup allows me to efficiently manage my blog posts from idea to publication. Here’s how it works:&lt;/p&gt;
+&lt;h2 id=&#34;step-1-idea-generation&#34;&gt;Step 1: Idea Generation&lt;/h2&gt;
+&lt;p&gt;I use a combination of tools like Obsidian and Notion to capture and organize my blog post ideas. Whenever inspiration strikes, I jot down my thoughts and categorize them for future reference.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;my-insane-blog-pipeline&#34;&gt;My Insane Blog Pipeline&lt;/h1&gt;
+&lt;p&gt;In this post, I will walk you through my insane blog pipeline. This setup allows me to efficiently manage my blog posts from idea to publication. Here’s how it works:&lt;/p&gt;
+&lt;h2 id=&#34;step-1-idea-generation&#34;&gt;Step 1: Idea Generation&lt;/h2&gt;
+&lt;p&gt;I use a combination of tools like Obsidian and Notion to capture and organize my blog post ideas. Whenever inspiration strikes, I jot down my thoughts and categorize them for future reference.&lt;/p&gt;
+&lt;h2 id=&#34;step-2-research-and-outline&#34;&gt;Step 2: Research and Outline&lt;/h2&gt;
+&lt;p&gt;Once I have a solid idea, I start researching the topic. I gather information from various sources and create an outline in Obsidian. This helps me structure my post and ensure that I cover all the important points.&lt;/p&gt;
+&lt;h2 id=&#34;step-3-writing&#34;&gt;Step 3: Writing&lt;/h2&gt;
+&lt;p&gt;With the outline ready, I begin writing the first draft. I prefer to write in Markdown, as it allows me to focus on the content without worrying about formatting. Obsidian’s distraction-free mode is perfect for this stage.&lt;/p&gt;
+&lt;h2 id=&#34;step-4-editing-and-proofreading&#34;&gt;Step 4: Editing and Proofreading&lt;/h2&gt;
+&lt;p&gt;After completing the first draft, I take a break before coming back to edit and proofread. This helps me catch any errors and improve the overall flow of the post. I also use tools like Grammarly to assist with grammar and style checks.&lt;/p&gt;
+&lt;h2 id=&#34;step-5-formatting-and-seo&#34;&gt;Step 5: Formatting and SEO&lt;/h2&gt;
+&lt;p&gt;Once the content is polished, I format the post for my blog platform. I ensure that the headings, images, and links are properly formatted. I also optimize the post for SEO by including relevant keywords and meta descriptions.&lt;/p&gt;
+&lt;h2 id=&#34;step-6-publishing&#34;&gt;Step 6: Publishing&lt;/h2&gt;
+&lt;p&gt;Finally, I publish the post on my blog. I use a scheduling tool to plan the publication date and time. This allows me to maintain a consistent posting schedule and reach my audience at the optimal time.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;And that’s it! My insane blog pipeline helps me stay organized and productive, ensuring that I can consistently produce high-quality content. I hope you found this overview helpful and that it inspires you to create your own efficient workflow.&lt;/p&gt;
+&lt;h2 id=&#34;image-test&#34;&gt;Image Test&lt;/h2&gt;
+&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250101114720.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
