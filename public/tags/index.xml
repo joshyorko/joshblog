@@ -5,6 +5,27 @@
     <link>/tags/</link>
     <description>Recent content in Tags on yorko.io blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kdlocpanda</title>
+      <link>/tags/kdlocpanda/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kdlocpanda/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Todo</title>
+      <link>/tags/todo/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/todo/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>

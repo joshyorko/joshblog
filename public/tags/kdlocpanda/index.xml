@@ -1,24 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kdlocpanda on Terminal</title>
-    <link>http://localhost:1313/tags/kdlocpanda/</link>
-    <description>Recent content in Kdlocpanda on Terminal</description>
+    <title>Kdlocpanda on yorko.io blog</title>
+    <link>/tags/kdlocpanda/</link>
+    <description>Recent content in Kdlocpanda on yorko.io blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/kdlocpanda/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/kdlocpanda/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog1</title>
-      <link>http://localhost:1313/posts/blog-1/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <title>To Do List</title>
+      <link>/posts/to-do/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/blog-1/</guid>
-      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
-&lt;p&gt;#kdlocpanda Just chilling&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;http://localhost:1313/images/output.jpg&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
-&lt;p&gt;#kdlocpanda Just chilling&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;http://localhost:1313/images/output.jpg&#34;&gt;&lt;/p&gt;
+      <guid>/posts/to-do/</guid>
+      <description>&lt;h1 id=&#34;to-do-tasks&#34;&gt;To Do Tasks&lt;/h1&gt;
+&lt;h2 id=&#34;1-extra-space-storage&#34;&gt;1. Extra Space Storage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Provide details here about handling extra space storage.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-rest-of-garbage&#34;&gt;2. Rest of Garbage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Provide details here about what “rest of garbage” entails.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-local-stack-spark-dev-env&#34;&gt;3. Local Stack Spark Dev Env&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Outline steps to set up and run a local Spark development environment.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-dental-view-finishlaunch&#34;&gt;4. Dental View Finish/Launch&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Detail the final steps needed to finish and launch the Dental View project.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;5-convert-maui-to-docker&#34;&gt;5. Convert Maui to Docker&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Explain how to containerize the Maui application using Docker.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;6-build-veronicatextractor&#34;&gt;6. Build Veronica/Textractor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Go beyond IronRipper; “Versoica” is better.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Detail plans and feature sets for Veronica/Textractor.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;7-build-a-mock-textract-server&#34;&gt;7. Build a Mock Textract Server&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Provide a server that an AWS Lambda function can call for testing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Describe how to simulate the AWS Textract service locally for development and testing.)&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;h1 id=&#34;to-do-tasks&#34;&gt;To Do Tasks&lt;/h1&gt;
+&lt;h2 id=&#34;1-extra-space-storage&#34;&gt;1. Extra Space Storage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Provide details here about handling extra space storage.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-rest-of-garbage&#34;&gt;2. Rest of Garbage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Provide details here about what “rest of garbage” entails.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-local-stack-spark-dev-env&#34;&gt;3. Local Stack Spark Dev Env&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Outline steps to set up and run a local Spark development environment.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-dental-view-finishlaunch&#34;&gt;4. Dental View Finish/Launch&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Detail the final steps needed to finish and launch the Dental View project.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;5-convert-maui-to-docker&#34;&gt;5. Convert Maui to Docker&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Explain how to containerize the Maui application using Docker.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;6-build-veronicatextractor&#34;&gt;6. Build Veronica/Textractor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Go beyond IronRipper; “Versoica” is better.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Detail plans and feature sets for Veronica/Textractor.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;7-build-a-mock-textract-server&#34;&gt;7. Build a Mock Textract Server&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Provide a server that an AWS Lambda function can call for testing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Describe how to simulate the AWS Textract service locally for development and testing.)&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     

@@ -6,6 +6,77 @@
     <description>Recent content on yorko.io blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To Do List</title>
+      <link>/posts/to-do/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/to-do/</guid>
+      <description>&lt;h1 id=&#34;to-do-tasks&#34;&gt;To Do Tasks&lt;/h1&gt;
+&lt;h2 id=&#34;1-extra-space-storage&#34;&gt;1. Extra Space Storage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Provide details here about handling extra space storage.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-rest-of-garbage&#34;&gt;2. Rest of Garbage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Provide details here about what “rest of garbage” entails.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-local-stack-spark-dev-env&#34;&gt;3. Local Stack Spark Dev Env&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Outline steps to set up and run a local Spark development environment.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-dental-view-finishlaunch&#34;&gt;4. Dental View Finish/Launch&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Detail the final steps needed to finish and launch the Dental View project.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;5-convert-maui-to-docker&#34;&gt;5. Convert Maui to Docker&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Explain how to containerize the Maui application using Docker.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;6-build-veronicatextractor&#34;&gt;6. Build Veronica/Textractor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Go beyond IronRipper; “Versoica” is better.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Detail plans and feature sets for Veronica/Textractor.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;7-build-a-mock-textract-server&#34;&gt;7. Build a Mock Textract Server&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Provide a server that an AWS Lambda function can call for testing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Describe how to simulate the AWS Textract service locally for development and testing.)&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;h1 id=&#34;to-do-tasks&#34;&gt;To Do Tasks&lt;/h1&gt;
+&lt;h2 id=&#34;1-extra-space-storage&#34;&gt;1. Extra Space Storage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Provide details here about handling extra space storage.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-rest-of-garbage&#34;&gt;2. Rest of Garbage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Provide details here about what “rest of garbage” entails.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-local-stack-spark-dev-env&#34;&gt;3. Local Stack Spark Dev Env&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Outline steps to set up and run a local Spark development environment.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-dental-view-finishlaunch&#34;&gt;4. Dental View Finish/Launch&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Detail the final steps needed to finish and launch the Dental View project.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;5-convert-maui-to-docker&#34;&gt;5. Convert Maui to Docker&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Explain how to containerize the Maui application using Docker.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;6-build-veronicatextractor&#34;&gt;6. Build Veronica/Textractor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Go beyond IronRipper; “Versoica” is better.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Detail plans and feature sets for Veronica/Textractor.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;7-build-a-mock-textract-server&#34;&gt;7. Build a Mock Textract Server&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Provide a server that an AWS Lambda function can call for testing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: (Describe how to simulate the AWS Textract service locally for development and testing.)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>
