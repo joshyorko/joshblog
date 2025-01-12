@@ -2,10 +2,12 @@ name: hugo
 services:
   hugo:
     image: ghcr.io/joshyorko/joshblog-hugo-terminal:latest
+    build:
+      context: .
     ports:
       - "1313:1313"
     volumes:
       - ./:/site
-    command: ["hugo", "server", "--bind", "0.0.0.0",  "-t", "terminal", "--buildDrafts", "--buildFuture"]
+    command: ["hugo", "server", "--bind", "0.0.0.0",  "-t", "terminal", "--watch", "--buildDrafts", "--buildFuture", "--noHTTPCache"]
 
 
